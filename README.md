@@ -97,3 +97,10 @@ The physical prototype simulates a 5-spot parking lot.
 ![5](https://github.com/user-attachments/assets/2afa4be7-95ae-41a3-a02b-88a7175084cf)
 ![6](https://github.com/user-attachments/assets/4487e2e4-fb16-496d-a2ae-84f1c2ea7cc6)
 ![IMG_7103](https://github.com/user-attachments/assets/28cf02f8-4497-4c05-b1ac-a01e1e5d2622)
+
+
+## Developed by 
+@CereteuPaul
+@dariustoasca
+@SavaMihnea
+@DragosSZ
